@@ -27,7 +27,7 @@ Voici quelques projets que j'ai réalise pour m’améliorer :
 ## 🔗 Me retrouver ailleurs
 - 🌐 [Portfolio](http://127.0.0.1:5500/index.html)
 - 💼 [LinkedIn](https://www.linkedin.com/in/barakatou-gaye-587191261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📫 Contact : [Email](gayebarakatou33@gmail.com)
+- 📫 Contact : [gayebarakatou33@gmail.com](gayebarakatou33@gmail.com)
 
 ---
 
