@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋🏾 Hello, moi c’est Barakatou !
 
-<!--
-**Barakatougaye/Barakatougaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en 2e année de Génie Logiciel à l'Institut Supérieur d’Informatique (ISI)  
+💻 Développeuse web débutante, passionnée par la création de sites simples, modernes et accessibles  
+🌍 Basée au Sénégal  
 
-Here are some ideas to get you started:
+## 🚀 Compétences techniques
+- HTML / CSS
+- WordPress
+- JavaScript 
+- Git & GitHub
+- Mysql & PostgreeSql
+- Java & python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projets
+Voici quelques projets que j'ai réalise pour m’améliorer :
+- 💼 Application d'Atelier de couture en javaSwing
+- 📝 Site wordpress pour librairie
+- ✅ Application gestion hotel avec Flask
+- 🎨 Creation sites simples en HTML/CSS
+
+## 📌 Objectifs actuels
+- Obtenir un stage en développement web
+- Travailler sur de petits projets freelance
+- Contribuer à des projets open-source
+
+## 🔗 Me retrouver ailleurs
+- 🌐 [Portfolio](http://127.0.0.1:5500/index.html)
+- 💼 [LinkedIn](https://www.linkedin.com/in/barakatou-gaye-587191261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📫 Contact : [Email](gayebarakatou33@gmail.com)
+
+---
+
+Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de projets, de collaboration ou d'opportunités ✨
