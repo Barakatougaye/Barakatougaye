@@ -25,7 +25,7 @@ Voici quelques projets que j'ai réalise pour m’améliorer :
 - Contribuer à des projets open-source
 
 ## 🔗 Me retrouver ailleurs
-- 🌐 [Portfolio](http://127.0.0.1:5500/index.html)
+- 🌐 [Portfolio](https://monportfolio-dev.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/barakatou-gaye-587191261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📫 Contact : [gayebarakatou33@gmail.com](gayebarakatou33@gmail.com)
 
