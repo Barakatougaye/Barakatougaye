@@ -1,7 +1,7 @@
 # 👋🏾 Hello, moi c’est Barakatou !
 
 🎓 Étudiante en 2e année de Génie Logiciel à l'Institut Supérieur d’Informatique (ISI)  
-💻 Développeuse web débutante, passionnée par la création de sites simples, modernes et accessibles  
+💻 Développeuse web / logiciel débutante, passionnée par la création de sites simples, modernes et accessibles  
 🌍 Basée au Sénégal  
 
 ## 🚀 Compétences techniques
